@@ -12,7 +12,7 @@ import paquete1.Profesor;
  *
  * @author reroes
  */
-public class ManejoArrayList {
+public class ManejoArrayList1 {
     public static void main(String[] args) {
         Profesor prof1 = new Profesor("Joseph Jimenez", "facturado");
         Profesor prof2 = new Profesor("David Jones", "nombramiento");
